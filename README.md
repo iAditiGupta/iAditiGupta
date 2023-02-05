@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Gupta</h1>
 <h3 align="center">Designing intuitive and engaging user experiences</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQL and Python**
 
 - 📫 How to reach me **aditigupta06012002@gmail.com**
 
